@@ -1,0 +1,6 @@
+{
+  "name": "AutoSLAM Dead-End Pruning Explorer",
+  "description": "Autonomous Mobile Robot (AMR) zero-prior-map SLAM simulator featuring 360° LiDAR raycasting, frontier exploration, permanent topological dead-end taboo memory, and A* return-to-origin navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
